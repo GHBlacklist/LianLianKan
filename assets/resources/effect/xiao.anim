@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xiao",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.45555555555555555,
+  "sample": 90,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "03d8c8ca-190c-4121-b890-d0e0d26df7ef"
+            }
+          },
+          {
+            "frame": 0.05555555555555555,
+            "value": {
+              "__uuid__": "27677fe1-00ff-4781-8b56-057496f87fd1"
+            }
+          },
+          {
+            "frame": 0.1111111111111111,
+            "value": {
+              "__uuid__": "74abd421-3a75-48e1-9039-eef0b3b74d5b"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "43eb967c-9e10-4af0-ac45-f5b18845c10c"
+            }
+          },
+          {
+            "frame": 0.2222222222222222,
+            "value": {
+              "__uuid__": "75deab76-2af7-4ed4-82ec-25857f224080"
+            }
+          },
+          {
+            "frame": 0.2777777777777778,
+            "value": {
+              "__uuid__": "90cfa561-c4b4-4894-a979-2ff5d3f803c4"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "dab048fe-3c3b-4c91-af6f-783874b1b1c1"
+            }
+          },
+          {
+            "frame": 0.3888888888888889,
+            "value": {
+              "__uuid__": "94c3c096-f5af-4d7a-837c-0c4f473d5053"
+            }
+          },
+          {
+            "frame": 0.4444444444444444,
+            "value": {
+              "__uuid__": "94c3c096-f5af-4d7a-837c-0c4f473d5053"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.3888888888888889,
+          "value": 255
+        },
+        {
+          "frame": 0.4444444444444444,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
